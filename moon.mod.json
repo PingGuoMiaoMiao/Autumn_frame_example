@@ -1,0 +1,20 @@
+{
+  "name": "PingGuoMiaoMiao/hello_world",
+  "version": "0.1.0",
+  "deps": {
+    "PingGuoMiaoMiao/Autumn_frame": "0.1.0"
+  },
+  "readme": "README.mbt.md",
+  "repository": "",
+  "license": "Apache-2.0",
+  "keywords": [],
+  "description": "",
+  "link": {
+    "native": {
+      "cc": "/usr/bin/gcc",
+      "cc-flags": "-fwrapv -fno-strict-aliasing",
+      "cc-link-flags": "-lsqlite3 -lmysqlclient -lpq"
+    }
+  },
+  "preferred-target": "native"
+}
