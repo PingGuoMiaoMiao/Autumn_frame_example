@@ -31,7 +31,7 @@
       "native-stub": [
         "../../.mooncakes/PingGuoMiaoMiao/Autumn_frame/autumn-frame/Autumn-Boot/Server/http_server.c"
       ],
-      "cc-link-flags": "-fwrapv -fno-strict-aliasing /home/pingguomiaomiao/Desktop/hello_world/cmd/main/http_server.o"
+      "cc-link-flags": "-fwrapv -fno-strict-aliasing /home/pingguomiaomiao/Desktop/Autumn_frame_example/cmd/main/http_server.o"
     }
   },
   "source": [
